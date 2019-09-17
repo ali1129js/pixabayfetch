@@ -1,6 +1,15 @@
 {
-  "main.css": "static/css/main.4e7b16ff.css",
-  "main.css.map": "static/css/main.4e7b16ff.css.map",
-  "main.js": "static/js/main.d76b895a.js",
-  "main.js.map": "static/js/main.d76b895a.js.map"
+  "main.css": "/pixaBayFetchLive/static/css/main.9c2b12ce.chunk.css",
+  "main.js": "/pixaBayFetchLive/static/js/main.3cd57b14.chunk.js",
+  "main.js.map": "/pixaBayFetchLive/static/js/main.3cd57b14.chunk.js.map",
+  "static/css/1.68555509.chunk.css": "/pixaBayFetchLive/static/css/1.68555509.chunk.css",
+  "static/js/1.4e2972ba.chunk.js": "/pixaBayFetchLive/static/js/1.4e2972ba.chunk.js",
+  "static/js/1.4e2972ba.chunk.js.map": "/pixaBayFetchLive/static/js/1.4e2972ba.chunk.js.map",
+  "runtime~main.js": "/pixaBayFetchLive/static/js/runtime~main.daa202e3.js",
+  "runtime~main.js.map": "/pixaBayFetchLive/static/js/runtime~main.daa202e3.js.map",
+  "static/css/1.68555509.chunk.css.map": "/pixaBayFetchLive/static/css/1.68555509.chunk.css.map",
+  "static/css/main.9c2b12ce.chunk.css.map": "/pixaBayFetchLive/static/css/main.9c2b12ce.chunk.css.map",
+  "index.html": "/pixaBayFetchLive/index.html",
+  "precache-manifest.cb29ec2946a5b70d99f5abfabead47ca.js": "/pixaBayFetchLive/precache-manifest.cb29ec2946a5b70d99f5abfabead47ca.js",
+  "service-worker.js": "/pixaBayFetchLive/service-worker.js"
 }
