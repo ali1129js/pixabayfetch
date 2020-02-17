@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pixaBayFetchLive/precache-manifest.d188aeb0c7a2f30740cfe7187ab80fe6.js"
+  "/newpixabay/precache-manifest.efa5bf873ab085890701fef4af3ca117.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/pixaBayFetchLive/index.html", {
+workbox.routing.registerNavigationRoute("/newpixabay/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
