@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/pixaBayFetchLive/static/js/runtime~main.daa202e3.js"
   },
   {
-    "revision": "3cd57b14131b714c9359",
-    "url": "/pixaBayFetchLive/static/js/main.3cd57b14.chunk.js"
+    "revision": "5bd2b3b822be550367f0",
+    "url": "/pixaBayFetchLive/static/js/main.5bd2b3b8.chunk.js"
   },
   {
     "revision": "4e2972bab64b83944fe9",
     "url": "/pixaBayFetchLive/static/js/1.4e2972ba.chunk.js"
   },
   {
-    "revision": "3cd57b14131b714c9359",
+    "revision": "5bd2b3b822be550367f0",
     "url": "/pixaBayFetchLive/static/css/main.9c2b12ce.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/pixaBayFetchLive/static/css/1.68555509.chunk.css"
   },
   {
-    "revision": "ec678770392d2020823ab171cb93cf91",
+    "revision": "ab42f1ef9abdeb6ed3733824f00ef77b",
     "url": "/pixaBayFetchLive/index.html"
   }
 ];

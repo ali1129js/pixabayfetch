@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pixaBayFetchLive/precache-manifest.cb29ec2946a5b70d99f5abfabead47ca.js"
+  "/pixaBayFetchLive/precache-manifest.d188aeb0c7a2f30740cfe7187ab80fe6.js"
 );
 
 workbox.clientsClaim();
